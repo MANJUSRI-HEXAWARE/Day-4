@@ -180,3 +180,6 @@ The Product Owner updates the Product Backlog order. The Developers refine estim
 | Refined Next-Sprint Stories | 5 original items reviewed |
 | Oversized Story Split | AWC-105 into 3 stories |
 
+
+<img width="1737" height="637" alt="image" src="https://github.com/user-attachments/assets/b706970d-070f-4a10-9dad-ba3b878785a4" />
+
