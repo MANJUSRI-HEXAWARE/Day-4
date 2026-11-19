@@ -73,3 +73,6 @@ The Scrum Master facilitates blocker resolution, coordinates discussions, and he
 
 Impediments are reviewed during Daily Scrum and followed up with the relevant owners.
 
+<img width="1365" height="595" alt="image" src="https://github.com/user-attachments/assets/668a5c0d-81a3-4fdd-bc17-bda4c122d46f" />
+
+
