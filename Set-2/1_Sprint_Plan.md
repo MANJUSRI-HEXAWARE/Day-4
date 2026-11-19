@@ -1,12 +1,12 @@
 # Sprint Plan – Airline Web Check-in
 
 **Project:** Airline Web Check-in  
-**Project Key:** AWC (Simulated)  
+**Project Key:** AWC  
 **Sprint:** Sprint 01 – Check-in Improvements  
 **Duration:** 8 Working Days  
 **Team Size:** 6 Members  
 **Focus Factor:** 70%  
-**Sprint Status:** In Progress (Simulation)
+**Sprint Status:** In Progress 
 
 ## 1. Team Capacity Calculation
 
