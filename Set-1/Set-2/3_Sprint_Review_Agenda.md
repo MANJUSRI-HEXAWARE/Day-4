@@ -143,3 +143,5 @@ The Sprint Review demonstrates the completed web check-in features and makes the
 
 The team receives stakeholder feedback and identifies the next steps required to finish payment integration.
 
+
+<img width="590" height="507" alt="image" src="https://github.com/user-attachments/assets/0b817e5c-0918-43b2-a66a-b094c4779fe3" />
