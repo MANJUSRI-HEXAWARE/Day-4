@@ -146,7 +146,6 @@ Deliver a tested digital wallet workflow enabling secure authentication, wallet 
 | Day 7 | DWA-104 | DWA-119 | DWA-101, 102 |
 | Day 10 | — | — | DWA-101, 102, 104, 119 |
 
-**Sprint Outcome (Simulated):** 23/23 SP completed.
-<img width="712" height="320" alt="image" src="https://github.com/user-attachments/assets/0355e7be-12d2-4d3f-bd84-4d0fb2e1f4f1" />
+<img width="1600" height="752" alt="image" src="https://github.com/user-attachments/assets/1d8a6609-6130-4134-a419-2da1220ba613" />
 
 
