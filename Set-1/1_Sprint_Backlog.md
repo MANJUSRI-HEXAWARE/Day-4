@@ -1,7 +1,7 @@
 # Sprint Backlog – Digital Wallet Application
 
 **Project:** Digital Wallet Application  
-**Project Key:** DWA (Simulated)  
+**Project Key:** DWA  
 **Sprint:** Sprint 01 – Wallet Core Features  
 **Sprint Duration:** 10 Working Days  
 **Team:** 5 Developers  
