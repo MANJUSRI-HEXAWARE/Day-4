@@ -48,3 +48,6 @@ Jira Story – In Progress
 For **DWA-119 – Refund to Wallet**, the pipeline would validate refund eligibility, wallet balance updates, duplicate-refund prevention, and transaction recording. The story can be moved to **Done** only after the agreed acceptance criteria and Definition of Done are satisfied.
 
 **Outcome:** The mapping establishes a consistent quality process for completing and integrating Digital Wallet sprint stories.
+
+<img width="832" height="143" alt="image" src="https://github.com/user-attachments/assets/bef674c9-2abf-44de-be8e-146b7870c778" />
+
