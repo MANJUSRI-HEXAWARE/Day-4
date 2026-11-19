@@ -66,3 +66,4 @@ Ideal Daily Burn = 23 / 10 = 2.3 SP per day
 | Remaining Story Points | 0 SP |
 | Completion Rate | 100% |
 
+<img width="1341" height="563" alt="image" src="https://github.com/user-attachments/assets/8bbb1b0d-6178-4316-9646-d85ecc2acefa" />
