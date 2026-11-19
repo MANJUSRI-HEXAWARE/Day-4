@@ -102,5 +102,6 @@ The sandbox outage is a high-priority external dependency affecting seat-upgrade
 
 The Scrum Master helps remove the impediment through escalation, coordination, and alternative testing arrangements.
 
-**Outcome:** The blocker is actively managed, but its resolution is not yet confirmed.
+
+<img width="1537" height="547" alt="image" src="https://github.com/user-attachments/assets/828765c8-7170-4c63-b278-e8f52c91d086" />
 
